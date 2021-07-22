@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="edit.css">
+    <title>Website</title>
+</head>
+<body>
+
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WYeFqSjvGaY" frameborder="0" align="right"  
+    allowfullscreen ></iframe>
+
+
+
+
+    <h1> Astik Singh</h1>
+
+
+    <h2>New Factt about th eworld we Live in</h2>
+
+    <img src="earth.jpg" alt="" width="400">
+
+    <p>Earth is the third planet from the Sun and the only astronomical object known to harbor and support life. About 29.2% of Earth's surface is land consisting of 
+        continents and islands. The remaining 70.8% is covered with water, mostly by oceans, seas, gulfs, and other salt-water bodies, but also by lakes, rivers, and
+         other freshwater, which together constitute the hydrosphere. Much of Earth's polar regions are covered in ice. Earth's outer layer is divided into several
+          rigid tectonic plates that migrate across the surface over many millions of years, while its interior remains active with a solid iron inner core, a liquid
+           outer core that generates Earth's magnetic field, and a convective mantle that drives plate tectonics.</p>
+
+           <hr>
+           <h2>About the Earth</h2>
+
+
+           <ul>
+               <li>Earth's rotation period relative to the Sun</li>
+               <li>86,164.0989 seconds of mean solar time</li>
+               <li>the continental shelf, mountains, volcanoes, <a href="https://en.wikipedia.org/wiki/Selene">The Moon</a>  </li>
+           </ul>
+
+           <hr>
+
+
+           <h3>Top 3 Facts about earth</h3>
+
+           <ol>
+            <li>Earth consists of land, air, water and life</li>
+            <li> The water includes oceans, lakes</li>
+            <li>were named after Greek and Roman gods</li>
+        </ol>
+
+        <hr>
+    
+        
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Radious</th>
+                    <th>Average <br>Temperature</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>Mars</td>
+                    <td>3,389 km</td>
+                    <td>&nbsp;&nbsp;80&deg;</td>
+
+                </tr>
+
+                <tr>
+                    <td>Jupiter</td>
+                    <td>69,911 km</td>
+                    <td>&nbsp;&nbsp; 145 &deg;</td>
+
+                </tr>
+
+                <tr>
+                    <td>Uranus</td>
+                    <td>26,000 km</td>
+                    <td>&nbsp;&nbsp;-353&deg;</td>
+
+                </tr>
+
+
+            </tbody>
+        </table>
+
+        <form action="https://www.nationalgeographic.com/">
+        
+            <p>Want to know more</p>
+
+            <p>  <input type="submit" value="Click Here"> </p> 
+
+            <h2 align="right"><a href="link.html">Next</a></h2>
+     
+        
+        </form>
+
+      
+</body>
+</html>
